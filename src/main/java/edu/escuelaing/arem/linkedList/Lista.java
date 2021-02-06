@@ -9,7 +9,7 @@ public class Lista {
 	}
 	
 	/**
-	 * funcion que añade valores a lalista
+	 * funcion que añade valores a la lista
 	 * @param valor
 	 */
 	public void add(Double valor) {
