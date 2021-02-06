@@ -9,7 +9,7 @@ public class Lista {
 	}
 	
 	/**
-	 * funcion que añade valores a la lista
+	 * funcion que anade valores a la lista
 	 * @param valor
 	 */
 	public void add(Double valor) {
@@ -69,7 +69,7 @@ public class Lista {
 	
 	/**
 	 * funcion que da el valor dela lista por un indice 
-	 * (sirve como iterador pues basta con hacer un ciclo de itere sobre el tamaño de la lista y 
+	 * (sirve como iterador pues basta con hacer un ciclo de itere sobre el tamano de la lista y 
 	 * vaya pidiendo cada elemento de la lista)
 	 * @param index
 	 * @return valor del nodo en ese indice
@@ -86,11 +86,11 @@ public class Lista {
 	}
 
 	/**
-	 * funcion que calcula el tamaño de la lista
-	 * @return tamaño de la lista
+	 * funcion que calcula el tamanode la lista
+	 * @return tamanode la lista
 	 */
 	public int size() {
-		int res = 0; // tamaño de la lista
+		int res = 0; // tamanode la lista
 		if (first != null) {//si la lista no esta vacia contamos
 			res++;//porque sabemos que hay al menos un nodo
 			Nodo nodo = first;
