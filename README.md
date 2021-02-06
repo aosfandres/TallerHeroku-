@@ -6,15 +6,15 @@ Aplicacion web escrita en java con uso de spark e implementacion de Maven para a
 # REQURIMIENTOS DE LA APLICACION
 Calcular la media de n numeros reales
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/media.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/media.PNG)
 
 Calcular la desviacion estandar de n numeros reales
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/desvi.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/desvi.PNG)
 
 Hacer uso de una implemntacion propia de lista encadenada
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/lista.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/lista.PNG)
 
 
 Leer los datos por medio de una pagina web (con uso de spark)
@@ -26,31 +26,31 @@ Leer los datos por medio de una pagina web (con uso de spark)
 # DISEÑO
 El despliegue de la aplicacion esta hecho en Heroku el cual usa un Dyno para soportar la app y por medio del protocolo HTTP el cliente o usuario final puede hacer uso de la aplicacion.
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/diagrama.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/diagrama.PNG)
 
 # USO
 Ingresar al aplicativo web por medio del despliege en Heroku
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/1.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/1.PNG)
 
 Allí se presenta el formulario HTML que solicita al usuario los datos a ser evaluados. Ingresamos los datos, y seleccionamos calculate para obtener el resultado.
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/2.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/2.PNG)
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/3.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/3.PNG)
 
 # PRUEBAS
 Las pruebas están diseñadas para probar la correcta funcionalidad de la calculadora con los datos de prueba proporcionados, y la correcta funcionalidad de la aplicación con la lista implementada. 
 
-![](https://github.com/aosfandres/TallerHeroku-/blob/main/images/4.PNG)
+![](https://github.com/aosfandres/TallerHeroku-/blob/master/images/4.PNG)
 
 
 # DOCUMENTO LATEX
-[Taller de Introducción a Heroku](https://github.com/aosfandres/TallerHeroku-/blob/main/LatexDocument.pdf)
+[Taller de Introducción a Heroku](https://github.com/aosfandres/TallerHeroku-/blob/master/LatexDocument.pdf)
 
 # DOCUMENTACION (JAVADOC)
 Para generar la documentacion con maven uasr mvn javdoc:javadoc en consola
-[JAVADOC](https://github.com/aosfandres/TallerHeroku-/blob/main/JAVADOC.lnk)
+[JAVADOC](https://github.com/aosfandres/TallerHeroku-/blob/master/JAVADOC.lnk)
 
 # DESPLIEGUE
 
